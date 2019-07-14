@@ -1,1 +1,1 @@
-# Hacakathons
+# Hackathons
